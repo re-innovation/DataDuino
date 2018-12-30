@@ -1,0 +1,1531 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:1wire
+LIBS:arduino_shieldsNCL
+LIBS:atmel-1
+LIBS:atmel-2005
+LIBS:philips
+LIBS:nxp
+LIBS:matts_components
+LIBS:DAQ_Flow_LEEDR_v5-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date "9 oct 2012"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	1850 3050 1850 2800
+Wire Wire Line
+	6100 4850 6100 4750
+Wire Wire Line
+	4400 2550 4150 2550
+Wire Wire Line
+	10850 3500 10850 4300
+Wire Wire Line
+	3600 6100 3800 6100
+Connection ~ 8000 2300
+Wire Wire Line
+	8000 2350 8000 2200
+Wire Wire Line
+	3850 3550 3800 3550
+Wire Wire Line
+	3800 3550 3800 3700
+Wire Wire Line
+	3800 3700 3850 3700
+Connection ~ 3700 4400
+Wire Wire Line
+	3700 4400 3700 3450
+Wire Wire Line
+	3700 3450 3850 3450
+Wire Wire Line
+	4700 3600 4700 3550
+Wire Wire Line
+	4700 3550 4650 3550
+Wire Wire Line
+	4150 2550 4150 2950
+Wire Wire Line
+	4150 2950 3950 2950
+Connection ~ 4900 6650
+Wire Wire Line
+	4900 6650 4750 6650
+Wire Wire Line
+	4750 6650 4750 6700
+Wire Wire Line
+	5000 6200 4500 6200
+Wire Wire Line
+	4500 6200 4500 6400
+Wire Wire Line
+	4850 6400 5000 6400
+Wire Wire Line
+	3600 5600 3750 5600
+Wire Wire Line
+	11150 4450 11150 4400
+Wire Wire Line
+	11150 4400 10850 4400
+Wire Wire Line
+	8950 4900 8500 4900
+Wire Wire Line
+	8950 4700 8950 4650
+Wire Wire Line
+	8950 4650 8850 4650
+Wire Wire Line
+	8950 4800 8850 4800
+Wire Wire Line
+	6650 4000 6650 3950
+Connection ~ 6900 4900
+Wire Wire Line
+	6900 5100 6950 5100
+Connection ~ 6750 4800
+Wire Wire Line
+	6950 4800 6750 4800
+Connection ~ 6850 4700
+Wire Wire Line
+	6850 4700 6850 5000
+Wire Wire Line
+	6850 5000 6950 5000
+Wire Wire Line
+	6500 4600 6950 4600
+Wire Wire Line
+	2800 3600 2800 3550
+Wire Wire Line
+	2800 3550 2650 3550
+Wire Wire Line
+	2350 1850 1450 1850
+Wire Wire Line
+	3600 4400 3850 4400
+Wire Wire Line
+	3600 4200 3850 4200
+Wire Wire Line
+	3600 6000 3800 6000
+Wire Wire Line
+	3800 5800 3600 5800
+Wire Wire Line
+	4000 5700 4200 5700
+Wire Wire Line
+	3600 5250 3800 5250
+Wire Wire Line
+	3950 1250 3950 1150
+Connection ~ 1150 3900
+Wire Wire Line
+	1150 3900 1150 3750
+Connection ~ 3950 2400
+Wire Wire Line
+	4350 2400 3950 2400
+Connection ~ 6800 3150
+Wire Wire Line
+	6800 3300 6800 3150
+Wire Wire Line
+	6900 1550 6900 2550
+Connection ~ 6700 1850
+Wire Wire Line
+	8100 1400 7300 1400
+Wire Wire Line
+	7300 1400 7300 1850
+Wire Wire Line
+	7300 1850 6350 1850
+Wire Wire Line
+	5650 1850 5850 1850
+Wire Wire Line
+	7100 2150 7100 2550
+Wire Wire Line
+	6900 3150 6900 3050
+Wire Wire Line
+	6500 3050 6500 3150
+Wire Wire Line
+	6500 2450 6500 2550
+Wire Wire Line
+	8100 1500 7700 1500
+Wire Wire Line
+	7700 1500 7700 1600
+Connection ~ 6900 750 
+Wire Wire Line
+	8100 1600 7850 1600
+Wire Wire Line
+	7850 1600 7850 750 
+Connection ~ 6250 1150
+Wire Wire Line
+	5550 1150 6900 1150
+Wire Wire Line
+	3650 2000 4350 2000
+Wire Wire Line
+	5350 5800 5350 5700
+Connection ~ 4400 4150
+Wire Wire Line
+	4500 4150 4150 4150
+Wire Wire Line
+	4150 4150 4150 4500
+Wire Wire Line
+	4150 4500 3600 4500
+Wire Wire Line
+	4900 4150 5050 4150
+Wire Wire Line
+	5050 4150 5050 4950
+Wire Wire Line
+	5050 4950 4900 4950
+Wire Wire Line
+	4400 4150 4400 4250
+Connection ~ 1250 6200
+Wire Wire Line
+	1250 6200 1250 5300
+Connection ~ 1550 3900
+Wire Wire Line
+	1550 4900 1550 3900
+Wire Wire Line
+	1000 4900 1000 3900
+Wire Wire Line
+	1000 3900 1700 3900
+Wire Wire Line
+	1000 5900 1000 6200
+Wire Wire Line
+	1000 6200 1700 6200
+Wire Wire Line
+	4300 3150 4300 3050
+Connection ~ 3950 1850
+Wire Wire Line
+	3950 2450 3950 1750
+Wire Wire Line
+	3950 1850 3650 1850
+Wire Wire Line
+	1550 1600 1300 1600
+Wire Wire Line
+	1300 1600 1300 1500
+Wire Wire Line
+	1550 2450 1550 2600
+Wire Wire Line
+	1550 2600 950  2600
+Wire Wire Line
+	950  2600 950  2550
+Wire Wire Line
+	2350 2350 2350 2600
+Connection ~ 2200 1850
+Wire Wire Line
+	2200 750  2200 1850
+Wire Wire Line
+	2200 1600 1950 1600
+Wire Wire Line
+	1050 1850 950  1850
+Wire Wire Line
+	950  1850 950  1950
+Wire Wire Line
+	1550 2050 1550 1850
+Connection ~ 1550 1850
+Wire Wire Line
+	1250 2700 1250 2600
+Connection ~ 1250 2600
+Wire Wire Line
+	3650 2350 3700 2350
+Wire Wire Line
+	3700 2350 3700 2550
+Wire Wire Line
+	3650 2200 3850 2200
+Wire Wire Line
+	3750 2200 3750 1750
+Wire Wire Line
+	1000 5500 1000 5400
+Wire Wire Line
+	1400 6350 1400 6200
+Connection ~ 1400 6200
+Wire Wire Line
+	1250 4900 1250 3900
+Connection ~ 1250 3900
+Wire Wire Line
+	1550 6200 1550 5300
+Connection ~ 1550 6200
+Wire Wire Line
+	4400 4950 4400 4850
+Wire Wire Line
+	5200 4550 5200 4450
+Wire Wire Line
+	5200 4450 5050 4450
+Connection ~ 5050 4450
+Wire Wire Line
+	3600 4600 4150 4600
+Wire Wire Line
+	4150 4600 4150 4950
+Wire Wire Line
+	4150 4950 4500 4950
+Connection ~ 4400 4950
+Wire Wire Line
+	4100 5700 4100 5650
+Connection ~ 4100 5700
+Wire Wire Line
+	4100 5150 4100 5100
+Wire Wire Line
+	5350 5700 5200 5700
+Wire Wire Line
+	3650 2100 4150 2100
+Wire Wire Line
+	4150 2100 4150 2200
+Wire Wire Line
+	4150 2200 4350 2200
+Wire Wire Line
+	5850 750  5400 750 
+Connection ~ 5550 750 
+Wire Wire Line
+	6250 1050 6250 1250
+Wire Wire Line
+	7700 1850 7700 1800
+Wire Wire Line
+	7700 1800 8100 1800
+Wire Wire Line
+	5650 2450 5850 2450
+Wire Wire Line
+	8100 1700 7400 1700
+Wire Wire Line
+	7400 1700 7400 2450
+Wire Wire Line
+	7400 2450 6350 2450
+Connection ~ 6500 2450
+Wire Wire Line
+	6700 3050 6700 3150
+Connection ~ 6700 3150
+Wire Wire Line
+	6500 3150 7100 3150
+Wire Wire Line
+	7100 3150 7100 3050
+Connection ~ 6900 3150
+Wire Wire Line
+	5650 2150 7900 2150
+Wire Wire Line
+	7900 2150 7900 1900
+Wire Wire Line
+	7900 1900 8100 1900
+Connection ~ 7100 2150
+Wire Wire Line
+	6700 1850 6700 2550
+Wire Wire Line
+	5650 1550 5850 1550
+Wire Wire Line
+	6350 1550 7200 1550
+Wire Wire Line
+	7200 1550 7200 1300
+Wire Wire Line
+	7200 1300 8100 1300
+Connection ~ 6900 1550
+Wire Wire Line
+	3750 1250 3750 1150
+Wire Wire Line
+	3600 5150 3800 5150
+Wire Wire Line
+	3600 5350 4000 5350
+Wire Wire Line
+	3600 5700 3800 5700
+Wire Wire Line
+	3600 5900 3800 5900
+Wire Wire Line
+	3600 4100 3850 4100
+Wire Wire Line
+	3600 4300 3850 4300
+Wire Wire Line
+	5950 4100 6100 4100
+Wire Wire Line
+	6100 4100 6100 4250
+Wire Wire Line
+	6100 5250 6100 5350
+Wire Wire Line
+	2350 2600 2150 2600
+Wire Wire Line
+	1850 2400 1850 2000
+Wire Wire Line
+	1850 2000 2350 2000
+Connection ~ 2150 2000
+Wire Wire Line
+	2650 3350 2800 3350
+Wire Wire Line
+	6500 4700 6950 4700
+Wire Wire Line
+	6650 4700 6650 4500
+Connection ~ 6650 4700
+Wire Wire Line
+	6950 4500 6750 4500
+Wire Wire Line
+	6750 4500 6750 5300
+Wire Wire Line
+	6900 4900 6950 4900
+Wire Wire Line
+	6950 5200 6900 5200
+Wire Wire Line
+	6900 5200 6900 4350
+Connection ~ 6900 5100
+Wire Wire Line
+	8100 750  6650 750 
+Connection ~ 7850 750 
+Wire Wire Line
+	4000 6000 4400 6000
+Connection ~ 4000 5700
+Wire Wire Line
+	8950 5100 8900 5100
+Wire Wire Line
+	8900 5100 8900 5000
+Wire Wire Line
+	8900 5000 8950 5000
+Wire Wire Line
+	8700 5100 8700 5050
+Wire Wire Line
+	8700 5050 8900 5050
+Connection ~ 8900 5050
+Wire Wire Line
+	3600 5500 3750 5500
+Wire Wire Line
+	4850 6300 5000 6300
+Wire Wire Line
+	5000 6700 4900 6700
+Wire Wire Line
+	4900 6700 4900 6600
+Wire Wire Line
+	4900 6600 5000 6600
+Wire Wire Line
+	4100 6400 4000 6400
+Wire Wire Line
+	4000 6400 4000 5350
+Connection ~ 4000 6000
+Wire Wire Line
+	4550 6600 4850 6600
+Wire Wire Line
+	4850 6600 4850 6500
+Wire Wire Line
+	4850 6500 5000 6500
+Wire Wire Line
+	4650 3350 4700 3350
+Wire Wire Line
+	4700 3350 4700 3300
+Wire Wire Line
+	3850 3350 3650 3350
+Wire Wire Line
+	3650 3350 3650 4300
+Connection ~ 3650 4300
+Wire Wire Line
+	4650 3450 4800 3450
+Wire Wire Line
+	4800 3450 4800 3800
+Wire Wire Line
+	4800 3800 3750 3800
+Wire Wire Line
+	3750 3800 3750 4200
+Connection ~ 3750 4200
+Wire Wire Line
+	8000 2300 7900 2300
+Wire Wire Line
+	8000 2200 8100 2200
+Wire Wire Line
+	7900 2850 8000 2850
+Wire Wire Line
+	1600 6200 1600 6100
+Wire Wire Line
+	1600 6100 1700 6100
+Connection ~ 1600 6200
+Wire Wire Line
+	1700 4200 1600 4200
+Wire Wire Line
+	1600 4200 1600 3900
+Connection ~ 1600 3900
+Wire Wire Line
+	3950 2950 3950 2850
+Wire Wire Line
+	4300 3050 4400 3050
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR01
+U 1 1 5074250F
+P 1850 3050
+F 0 "#PWR01" H 1850 3050 30  0001 C CNN
+F 1 "GND" H 1850 2980 30  0001 C CNN
+F 2 "" H 1850 3050 60  0001 C CNN
+F 3 "" H 1850 3050 60  0001 C CNN
+	1    1850 3050
+	1    0    0    -1  
+$EndComp
+Text Notes 650  2900 0    60   ~ 0
+Bolt Holes
+NoConn ~ 750  3500
+NoConn ~ 750  3350
+NoConn ~ 750  3200
+NoConn ~ 750  3050
+$Comp
+L CONN_1 P8
+U 1 1 500FB994
+P 900 3500
+F 0 "P8" H 980 3500 40  0000 L CNN
+F 1 "CONN_1" H 900 3555 30  0001 C CNN
+F 2 "matts_components:3mm_hole" H 900 3500 60  0001 C CNN
+F 3 "" H 900 3500 60  0001 C CNN
+	1    900  3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 P7
+U 1 1 500FB991
+P 900 3350
+F 0 "P7" H 980 3350 40  0000 L CNN
+F 1 "CONN_1" H 900 3405 30  0001 C CNN
+F 2 "matts_components:3mm_hole" H 900 3350 60  0001 C CNN
+F 3 "" H 900 3350 60  0001 C CNN
+	1    900  3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 P6
+U 1 1 500FB98E
+P 900 3200
+F 0 "P6" H 980 3200 40  0000 L CNN
+F 1 "CONN_1" H 900 3255 30  0001 C CNN
+F 2 "matts_components:3mm_hole" H 900 3200 60  0001 C CNN
+F 3 "" H 900 3200 60  0001 C CNN
+	1    900  3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 P5
+U 1 1 500FB98A
+P 900 3050
+F 0 "P5" H 980 3050 40  0000 L CNN
+F 1 "CONN_1" H 900 3105 30  0001 C CNN
+F 2 "matts_components:3mm_hole" H 900 3050 60  0001 C CNN
+F 3 "" H 900 3050 60  0001 C CNN
+	1    900  3050
+	1    0    0    -1  
+$EndComp
+NoConn ~ 8100 2500
+NoConn ~ 8100 2400
+NoConn ~ 8100 2300
+NoConn ~ 8100 2000
+NoConn ~ 8100 2100
+Text GLabel 3800 6100 2    60   Input ~ 0
+CD
+$Comp
+L +5V #PWR02
+U 1 1 500E8D3F
+P 7900 2850
+F 0 "#PWR02" H 7900 2940 20  0001 C CNN
+F 1 "+5V" H 7900 2940 30  0000 C CNN
+F 2 "" H 7900 2850 60  0001 C CNN
+F 3 "" H 7900 2850 60  0001 C CNN
+	1    7900 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R15
+U 1 1 500E8CFF
+P 8000 2600
+F 0 "R15" V 8080 2600 50  0000 C CNN
+F 1 "10k" V 8000 2600 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 8000 2600 60  0001 C CNN
+F 3 "" H 8000 2600 60  0001 C CNN
+	1    8000 2600
+	1    0    0    -1  
+$EndComp
+Text GLabel 7900 2300 0    60   Output ~ 0
+CD
+Text GLabel 3850 3700 2    60   Output ~ 0
+RESET
+$Comp
+L +5V #PWR03
+U 1 1 500E7383
+P 4700 3300
+F 0 "#PWR03" H 4700 3390 20  0001 C CNN
+F 1 "+5V" H 4700 3390 30  0000 C CNN
+F 2 "" H 4700 3300 60  0001 C CNN
+F 3 "" H 4700 3300 60  0001 C CNN
+	1    4700 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR04
+U 1 1 500E737D
+P 4700 3600
+F 0 "#PWR04" H 4700 3600 30  0001 C CNN
+F 1 "GND" H 4700 3530 30  0001 C CNN
+F 2 "" H 4700 3600 60  0001 C CNN
+F 3 "" H 4700 3600 60  0001 C CNN
+	1    4700 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR05
+U 1 1 500E7342
+P 4750 6700
+F 0 "#PWR05" H 4750 6700 30  0001 C CNN
+F 1 "GND" H 4750 6630 30  0001 C CNN
+F 2 "" H 4750 6700 60  0001 C CNN
+F 3 "" H 4750 6700 60  0001 C CNN
+	1    4750 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR06
+U 1 1 500E733F
+P 4550 6600
+F 0 "#PWR06" H 4550 6690 20  0001 C CNN
+F 1 "+5V" H 4550 6690 30  0000 C CNN
+F 2 "" H 4550 6600 60  0001 C CNN
+F 3 "" H 4550 6600 60  0001 C CNN
+	1    4550 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L C-RESCUE-DAQ_Flow_LEEDR_v4 C9
+U 1 1 500E7324
+P 4300 6400
+F 0 "C9" H 4350 6500 50  0000 L CNN
+F 1 "100nF" H 4350 6300 50  0000 L CNN
+F 2 "matts_components:C1_wide_lg_pad" H 4300 6400 60  0001 C CNN
+F 3 "" H 4300 6400 60  0001 C CNN
+	1    4300 6400
+	0    -1   -1   0   
+$EndComp
+Text GLabel 4850 6300 0    60   Output ~ 0
+TxD
+Text GLabel 4850 6400 0    60   Input ~ 0
+RxD
+Text GLabel 3750 5500 2    60   Input ~ 0
+RxD
+Text GLabel 3750 5600 2    60   Output ~ 0
+TxD
+Text Notes 5500 6250 0    60   ~ 0
+1: RTS#\n2: Rx\n3: Tx\n4: Vcc\n5: CTS#\n6: GND
+$Comp
+L CONN_3X2 P2
+U 1 1 500E716C
+P 4250 3500
+F 0 "P2" H 4250 3750 50  0000 C CNN
+F 1 "ISP" V 4250 3550 40  0000 C CNN
+F 2 "matts_components:DIL_3x2_large_pads_1mm" H 4250 3500 60  0001 C CNN
+F 3 "" H 4250 3500 60  0001 C CNN
+	1    4250 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_6 P3
+U 1 1 500E7163
+P 5350 6450
+F 0 "P3" V 5300 6450 60  0000 C CNN
+F 1 "PROGRAM" V 5400 6450 60  0000 C CNN
+F 2 "matts_components:SIL-6_large_pads_marker" H 5350 6450 60  0001 C CNN
+F 3 "" H 5350 6450 60  0001 C CNN
+	1    5350 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR07
+U 1 1 500E7101
+P 11150 4450
+F 0 "#PWR07" H 11150 4450 30  0001 C CNN
+F 1 "GND" H 11150 4380 30  0001 C CNN
+F 2 "" H 11150 4450 60  0001 C CNN
+F 3 "" H 11150 4450 60  0001 C CNN
+	1    11150 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR08
+U 1 1 500E70D8
+P 8700 5100
+F 0 "#PWR08" H 8700 5100 30  0001 C CNN
+F 1 "GND" H 8700 5030 30  0001 C CNN
+F 2 "" H 8700 5100 60  0001 C CNN
+F 3 "" H 8700 5100 60  0001 C CNN
+	1    8700 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR09
+U 1 1 500E70D4
+P 8500 4900
+F 0 "#PWR09" H 8500 4990 20  0001 C CNN
+F 1 "+5V" H 8500 4990 30  0000 C CNN
+F 2 "" H 8500 4900 60  0001 C CNN
+F 3 "" H 8500 4900 60  0001 C CNN
+	1    8500 4900
+	1    0    0    -1  
+$EndComp
+Text GLabel 8850 4650 0    60   Input ~ 0
+RESET
+Text GLabel 4400 6000 2    60   Input ~ 0
+RESET
+Text GLabel 8850 4800 0    60   Input ~ 0
+3v3
+Text GLabel 8100 750  2    60   Output ~ 0
+3v3
+Text Label 10850 4500 0    60   ~ 0
+d13
+Text Label 10850 4600 0    60   ~ 0
+d12
+Text Label 10850 4700 0    60   ~ 0
+d11
+Text Label 10850 4800 0    60   ~ 0
+d10
+Text Label 10850 4900 0    60   ~ 0
+d9
+Text Label 10850 5000 0    60   ~ 0
+d8
+Text Label 10850 5200 0    60   ~ 0
+d7
+Text Label 10850 5300 0    60   ~ 0
+d6
+Text Label 10850 5400 0    60   ~ 0
+d5
+Text Label 10850 5500 0    60   ~ 0
+d4
+Text Label 10850 5600 0    60   ~ 0
+d3
+Text Label 10850 5700 0    60   ~ 0
+d2
+Text Label 10850 5800 0    60   ~ 0
+d1
+Text Label 10850 5900 0    60   ~ 0
+d0
+Text Label 8950 5900 0    60   ~ 0
+a5
+Text Label 8950 5800 0    60   ~ 0
+a4
+Text Label 8950 5700 0    60   ~ 0
+a3
+Text Label 8950 5600 0    60   ~ 0
+a2
+Text Label 8950 5500 0    60   ~ 0
+a1
+Text Label 8950 5400 0    60   ~ 0
+a0
+Text Label 3600 6200 0    60   ~ 0
+d7
+Text Label 3600 6100 0    60   ~ 0
+d6
+Text Label 3600 6000 0    60   ~ 0
+d5
+Text Label 3600 5900 0    60   ~ 0
+d4
+Text Label 3600 5800 0    60   ~ 0
+d3
+Text Label 3600 5700 0    60   ~ 0
+d2
+Text Label 3600 5600 0    60   ~ 0
+d1
+Text Label 3600 5500 0    60   ~ 0
+d0
+Text Label 3600 5250 0    60   ~ 0
+a5
+Text Label 3600 5150 0    60   ~ 0
+a4
+Text Label 3600 5050 0    60   ~ 0
+a3
+Text Label 3600 4950 0    60   ~ 0
+a2
+Text Label 3600 4850 0    60   ~ 0
+a1
+Text Label 3600 4750 0    60   ~ 0
+a0
+Text Label 3600 4400 0    60   ~ 0
+d13
+Text Label 3600 4300 0    60   ~ 0
+d12
+Text Label 3600 4200 0    60   ~ 0
+d11
+Text Label 3600 4100 0    60   ~ 0
+d10
+Text Label 3600 4000 0    60   ~ 0
+d9
+Text Label 3600 3900 0    60   ~ 0
+d8
+Text Notes 7500 4550 0    60   ~ 0
+1: Flow GND\n2: Flow DATA\n3: Temp DATA\n4: Temp GND\n5: Temp 5V\n6: Temp DATA\n7: Flow 5V\n8: Temp 5V
+$Comp
+L ARDUINO_SHIELD SHIELD1
+U 1 1 500E6E21
+P 9900 5100
+F 0 "SHIELD1" H 9550 6050 60  0000 C CNN
+F 1 "ARDUINO_SHIELD" H 9950 4150 60  0000 C CNN
+F 2 "matts_components:ARDUINO_SHIELD_040pins_no_hole_large_pad_no_outline" H 9900 5100 60  0001 C CNN
+F 3 "" H 9900 5100 60  0001 C CNN
+	1    9900 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR010
+U 1 1 500E6DB4
+P 2800 3350
+F 0 "#PWR010" H 2800 3440 20  0001 C CNN
+F 1 "+5V" H 2800 3440 30  0000 C CNN
+F 2 "" H 2800 3350 60  0001 C CNN
+F 3 "" H 2800 3350 60  0001 C CNN
+	1    2800 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR011
+U 1 1 500E6DAC
+P 2800 3600
+F 0 "#PWR011" H 2800 3600 30  0001 C CNN
+F 1 "GND" H 2800 3530 30  0001 C CNN
+F 2 "" H 2800 3600 60  0001 C CNN
+F 3 "" H 2800 3600 60  0001 C CNN
+	1    2800 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_2-RESCUE-DAQ_Flow_LEEDR_v4 P1
+U 1 1 500E6DA2
+P 2300 3450
+F 0 "P1" V 2250 3450 40  0000 C CNN
+F 1 "POWER" V 2350 3450 40  0000 C CNN
+F 2 "matts_components:Plug_power_5_3mm" H 2300 3450 60  0001 C CNN
+F 3 "" H 2300 3450 60  0001 C CNN
+	1    2300 3450
+	-1   0    0    1   
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR012
+U 1 1 500E6CD7
+P 6100 5350
+F 0 "#PWR012" H 6100 5350 30  0001 C CNN
+F 1 "GND" H 6100 5280 30  0001 C CNN
+F 2 "" H 6100 5350 60  0001 C CNN
+F 3 "" H 6100 5350 60  0001 C CNN
+	1    6100 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED-RESCUE-DAQ_Flow_LEEDR_v4 D5
+U 1 1 500E6CBF
+P 6100 5050
+F 0 "D5" H 6100 5150 50  0000 C CNN
+F 1 "DATA" H 6100 4950 50  0000 C CNN
+F 2 "matts_components:led-LED3MM_matt" H 6100 5050 60  0001 C CNN
+F 3 "" H 6100 5050 60  0001 C CNN
+	1    6100 5050
+	0    1    1    0   
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R14
+U 1 1 500E6CB3
+P 6100 4500
+F 0 "R14" V 6180 4500 50  0000 C CNN
+F 1 "1k" V 6100 4500 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 6100 4500 60  0001 C CNN
+F 3 "" H 6100 4500 60  0001 C CNN
+	1    6100 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L CTRIM-RESCUE-DAQ_Flow_LEEDR_v4 C8
+U 1 1 500E6CAB
+P 1850 2600
+F 0 "C8" H 1980 2520 50  0000 C CNN
+F 1 "CTRIM" H 2000 2440 50  0000 C CNN
+F 2 "matts_components:CTrim" H 1850 2600 60  0001 C CNN
+F 3 "" H 1850 2600 60  0001 C CNN
+	1    1850 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_8 P4
+U 1 1 500E6C6A
+P 7300 4850
+F 0 "P4" V 7250 4850 60  0000 C CNN
+F 1 "SENSORS" V 7350 4850 60  0000 C CNN
+F 2 "matts_components:SIL-8_lg_pad_1mm" H 7300 4850 60  0001 C CNN
+F 3 "" H 7300 4850 60  0001 C CNN
+	1    7300 4850
+	1    0    0    -1  
+$EndComp
+Text GLabel 3800 6000 2    60   Output ~ 0
+D5
+Text GLabel 5950 4100 0    60   Input ~ 0
+D5
+Text GLabel 3800 5800 2    60   Input ~ 0
+D3
+Text GLabel 3800 5900 2    60   Input ~ 0
+D4
+Text GLabel 3850 4400 2    60   Output ~ 0
+D13
+Text GLabel 3850 4300 2    60   Output ~ 0
+D12
+Text GLabel 3850 4200 2    60   Output ~ 0
+D11
+Text GLabel 3850 4100 2    60   Output ~ 0
+D10
+Text GLabel 3800 5700 2    60   Input ~ 0
+D2
+Text GLabel 3800 5150 2    60   Input ~ 0
+A4
+Text GLabel 3800 5250 2    60   Input ~ 0
+A5
+Text Notes 7350 5450 0    60   ~ 0
+To the Sensors
+$Comp
+L +5V #PWR013
+U 1 1 4F85A927
+P 6900 4350
+F 0 "#PWR013" H 6900 4440 20  0001 C CNN
+F 1 "+5V" H 6900 4440 30  0000 C CNN
+F 2 "" H 6900 4350 60  0001 C CNN
+F 3 "" H 6900 4350 60  0001 C CNN
+	1    6900 4350
+	1    0    0    -1  
+$EndComp
+Text GLabel 6500 4600 0    60   Output ~ 0
+D3
+Text GLabel 4350 2400 2    60   Output ~ 0
+D2
+Text GLabel 6500 4700 0    60   Output ~ 0
+D4
+$Comp
+L +5V #PWR014
+U 1 1 4F85A8A7
+P 6650 3950
+F 0 "#PWR014" H 6650 4040 20  0001 C CNN
+F 1 "+5V" H 6650 4040 30  0000 C CNN
+F 2 "" H 6650 3950 60  0001 C CNN
+F 3 "" H 6650 3950 60  0001 C CNN
+	1    6650 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR015
+U 1 1 4F85A8A4
+P 6750 5300
+F 0 "#PWR015" H 6750 5300 30  0001 C CNN
+F 1 "GND" H 6750 5230 30  0001 C CNN
+F 2 "" H 6750 5300 60  0001 C CNN
+F 3 "" H 6750 5300 60  0001 C CNN
+	1    6750 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R13
+U 1 1 4F85A892
+P 6650 4250
+F 0 "R13" V 6730 4250 50  0000 C CNN
+F 1 "4k7" V 6650 4250 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 6650 4250 60  0001 C CNN
+F 3 "" H 6650 4250 60  0001 C CNN
+	1    6650 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR016
+U 1 1 4F85A838
+P 6800 3300
+F 0 "#PWR016" H 6800 3300 30  0001 C CNN
+F 1 "GND" H 6800 3230 30  0001 C CNN
+F 2 "" H 6800 3300 60  0001 C CNN
+F 3 "" H 6800 3300 60  0001 C CNN
+	1    6800 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R12
+U 1 1 4F85A7C7
+P 7100 2800
+F 0 "R12" V 7180 2800 50  0000 C CNN
+F 1 "100k" V 7100 2800 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 7100 2800 60  0001 C CNN
+F 3 "" H 7100 2800 60  0001 C CNN
+	1    7100 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R11
+U 1 1 4F85A777
+P 6900 2800
+F 0 "R11" V 6980 2800 50  0000 C CNN
+F 1 "3k3" V 6900 2800 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 6900 2800 60  0001 C CNN
+F 3 "" H 6900 2800 60  0001 C CNN
+	1    6900 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR017
+U 1 1 4F85A724
+P 7700 1850
+F 0 "#PWR017" H 7700 1850 30  0001 C CNN
+F 1 "GND" H 7700 1780 30  0001 C CNN
+F 2 "" H 7700 1850 60  0001 C CNN
+F 3 "" H 7700 1850 60  0001 C CNN
+	1    7700 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR018
+U 1 1 4F85A71F
+P 7700 1600
+F 0 "#PWR018" H 7700 1600 30  0001 C CNN
+F 1 "GND" H 7700 1530 30  0001 C CNN
+F 2 "" H 7700 1600 60  0001 C CNN
+F 3 "" H 7700 1600 60  0001 C CNN
+	1    7700 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR019
+U 1 1 4F85A694
+P 6250 1250
+F 0 "#PWR019" H 6250 1250 30  0001 C CNN
+F 1 "GND" H 6250 1180 30  0001 C CNN
+F 2 "" H 6250 1250 60  0001 C CNN
+F 3 "" H 6250 1250 60  0001 C CNN
+	1    6250 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR020
+U 1 1 4F85A68A
+P 5400 750
+F 0 "#PWR020" H 5400 840 20  0001 C CNN
+F 1 "+5V" H 5400 840 30  0000 C CNN
+F 2 "" H 5400 750 60  0001 C CNN
+F 3 "" H 5400 750 60  0001 C CNN
+	1    5400 750 
+	1    0    0    -1  
+$EndComp
+$Comp
+L CP1-RESCUE-DAQ_Flow_LEEDR_v4 C7
+U 1 1 4F85A67E
+P 6900 950
+F 0 "C7" H 6950 1050 50  0000 L CNN
+F 1 "10uF" H 6950 850 50  0000 L CNN
+F 2 "matts_components:C2V8_large_pad" H 6900 950 60  0001 C CNN
+F 3 "" H 6900 950 60  0001 C CNN
+	1    6900 950 
+	1    0    0    -1  
+$EndComp
+Text GLabel 5650 2450 0    60   Input ~ 0
+D13
+Text GLabel 5650 2150 0    60   Input ~ 0
+D12
+Text GLabel 5650 1850 0    60   Input ~ 0
+D11
+Text GLabel 5650 1550 0    60   Input ~ 0
+D10
+Text GLabel 4350 2200 2    60   Output ~ 0
+A4
+Text GLabel 4350 2000 2    60   Output ~ 0
+A5
+$Comp
+L CP1-RESCUE-DAQ_Flow_LEEDR_v4 C6
+U 1 1 4F85A009
+P 5550 950
+F 0 "C6" H 5600 1050 50  0000 L CNN
+F 1 "10uF" H 5600 850 50  0000 L CNN
+F 2 "matts_components:C2V8_large_pad" H 5550 950 60  0001 C CNN
+F 3 "" H 5550 950 60  0001 C CNN
+	1    5550 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L 7805 U2
+U 1 1 4F859FEB
+P 6250 800
+F 0 "U2" H 6400 604 60  0000 C CNN
+F 1 "MCP1703" H 6250 1000 60  0000 C CNN
+F 2 "matts_components:TO92_MCP9701_matt_2" H 6250 800 60  0001 C CNN
+F 3 "" H 6250 800 60  0001 C CNN
+	1    6250 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR021
+U 1 1 4F859E96
+P 1150 3750
+F 0 "#PWR021" H 1150 3840 20  0001 C CNN
+F 1 "+5V" H 1150 3840 30  0000 C CNN
+F 2 "" H 1150 3750 60  0001 C CNN
+F 3 "" H 1150 3750 60  0001 C CNN
+	1    1150 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L CON-SD-MMC-3 J1
+U 1 1 4F859E16
+P 8400 1900
+F 0 "J1" H 8250 2630 50  0000 L BNN
+F 1 "CON-SD-MMC-3" H 8250 1100 50  0000 L BNN
+F 2 "matts_components:SD_holder_3M_matt" H 8400 2050 50  0001 C CNN
+F 3 "" H 8400 1900 60  0001 C CNN
+	1    8400 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R7
+U 1 1 4F859DAD
+P 6100 1850
+F 0 "R7" V 6180 1850 50  0000 C CNN
+F 1 "2k2" V 6100 1850 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 6100 1850 60  0001 C CNN
+F 3 "" H 6100 1850 60  0001 C CNN
+	1    6100 1850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R10
+U 1 1 4F859DAB
+P 6700 2800
+F 0 "R10" V 6780 2800 50  0000 C CNN
+F 1 "3k3" V 6700 2800 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 6700 2800 60  0001 C CNN
+F 3 "" H 6700 2800 60  0001 C CNN
+	1    6700 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R6
+U 1 1 4F859DA8
+P 6100 1550
+F 0 "R6" V 6180 1550 50  0000 C CNN
+F 1 "2k2" V 6100 1550 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 6100 1550 60  0001 C CNN
+F 3 "" H 6100 1550 60  0001 C CNN
+	1    6100 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R9
+U 1 1 4F859DA5
+P 6500 2800
+F 0 "R9" V 6580 2800 50  0000 C CNN
+F 1 "3k3" V 6500 2800 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 6500 2800 60  0001 C CNN
+F 3 "" H 6500 2800 60  0001 C CNN
+	1    6500 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R8
+U 1 1 4F859DA3
+P 6100 2450
+F 0 "R8" V 6180 2450 50  0000 C CNN
+F 1 "2k2" V 6100 2450 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 6100 2450 60  0001 C CNN
+F 3 "" H 6100 2450 60  0001 C CNN
+	1    6100 2450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR022
+U 1 1 4F859D07
+P 5350 5800
+F 0 "#PWR022" H 5350 5800 30  0001 C CNN
+F 1 "GND" H 5350 5730 30  0001 C CNN
+F 2 "" H 5350 5800 60  0001 C CNN
+F 3 "" H 5350 5800 60  0001 C CNN
+	1    5350 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR023
+U 1 1 4F859C74
+P 4100 5100
+F 0 "#PWR023" H 4100 5190 20  0001 C CNN
+F 1 "+5V" H 4100 5190 30  0000 C CNN
+F 2 "" H 4100 5100 60  0001 C CNN
+F 3 "" H 4100 5100 60  0001 C CNN
+	1    4100 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR024
+U 1 1 4F859C4F
+P 5200 4550
+F 0 "#PWR024" H 5200 4550 30  0001 C CNN
+F 1 "GND" H 5200 4480 30  0001 C CNN
+F 2 "" H 5200 4550 60  0001 C CNN
+F 3 "" H 5200 4550 60  0001 C CNN
+	1    5200 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR025
+U 1 1 4F859BDB
+P 1400 6350
+F 0 "#PWR025" H 1400 6350 30  0001 C CNN
+F 1 "GND" H 1400 6280 30  0001 C CNN
+F 2 "" H 1400 6350 60  0001 C CNN
+F 3 "" H 1400 6350 60  0001 C CNN
+	1    1400 6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR026
+U 1 1 4F859BBE
+P 4300 3150
+F 0 "#PWR026" H 4300 3150 30  0001 C CNN
+F 1 "GND" H 4300 3080 30  0001 C CNN
+F 2 "" H 4300 3150 60  0001 C CNN
+F 3 "" H 4300 3150 60  0001 C CNN
+	1    4300 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R5
+U 1 1 4F859B8B
+P 4400 2800
+F 0 "R5" V 4480 2800 50  0000 C CNN
+F 1 "330" V 4400 2800 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 4400 2800 60  0001 C CNN
+F 3 "" H 4400 2800 60  0001 C CNN
+	1    4400 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR027
+U 1 1 4F859B78
+P 3700 2550
+F 0 "#PWR027" H 3700 2550 30  0001 C CNN
+F 1 "GND" H 3700 2480 30  0001 C CNN
+F 2 "" H 3700 2550 60  0001 C CNN
+F 3 "" H 3700 2550 60  0001 C CNN
+	1    3700 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR028
+U 1 1 4F859B0A
+P 3950 1150
+F 0 "#PWR028" H 3950 1240 20  0001 C CNN
+F 1 "+5V" H 3950 1240 30  0000 C CNN
+F 2 "" H 3950 1150 60  0001 C CNN
+F 3 "" H 3950 1150 60  0001 C CNN
+	1    3950 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR029
+U 1 1 4F859B06
+P 3750 1150
+F 0 "#PWR029" H 3750 1240 20  0001 C CNN
+F 1 "+5V" H 3750 1240 30  0000 C CNN
+F 2 "" H 3750 1150 60  0001 C CNN
+F 3 "" H 3750 1150 60  0001 C CNN
+	1    3750 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND-RESCUE-DAQ_Flow_LEEDR_v4 #PWR030
+U 1 1 4F859B02
+P 1250 2700
+F 0 "#PWR030" H 1250 2700 30  0001 C CNN
+F 1 "GND" H 1250 2630 30  0001 C CNN
+F 2 "" H 1250 2700 60  0001 C CNN
+F 3 "" H 1250 2700 60  0001 C CNN
+	1    1250 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR031
+U 1 1 4F859AF9
+P 1300 1500
+F 0 "#PWR031" H 1300 1590 20  0001 C CNN
+F 1 "+5V" H 1300 1590 30  0000 C CNN
+F 2 "" H 1300 1500 60  0001 C CNN
+F 3 "" H 1300 1500 60  0001 C CNN
+	1    1300 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L BATTERY BT1
+U 1 1 4F859A9B
+P 950 2250
+F 0 "BT1" H 950 2450 50  0000 C CNN
+F 1 "CR2032 3V BATT" H 950 2060 50  0000 C CNN
+F 2 "matts_components:Batt_conn_20mm_thruh" H 950 2250 60  0001 C CNN
+F 3 "" H 950 2250 60  0001 C CNN
+	1    950  2250
+	0    1    1    0   
+$EndComp
+$Comp
+L DIODE D3
+U 1 1 4F859A8F
+P 1750 1600
+F 0 "D3" H 1750 1700 40  0000 C CNN
+F 1 "1N4148" H 1750 1500 40  0000 C CNN
+F 2 "matts_components:D4_lg_pad" H 1750 1600 60  0001 C CNN
+F 3 "" H 1750 1600 60  0001 C CNN
+	1    1750 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L DIODE D2
+U 1 1 4F859A8A
+P 1250 1850
+F 0 "D2" H 1250 1950 40  0000 C CNN
+F 1 "1N4148" H 1250 1750 40  0000 C CNN
+F 2 "matts_components:D4_lg_pad" H 1250 1850 60  0001 C CNN
+F 3 "" H 1250 1850 60  0001 C CNN
+	1    1250 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L CP1-RESCUE-DAQ_Flow_LEEDR_v4 C3
+U 1 1 4F859A80
+P 1550 2250
+F 0 "C3" H 1600 2350 50  0000 L CNN
+F 1 "10uF" H 1600 2150 50  0000 L CNN
+F 2 "matts_components:C2V8_large_pad" H 1550 2250 60  0001 C CNN
+F 3 "" H 1550 2250 60  0001 C CNN
+	1    1550 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R3
+U 1 1 4F859915
+P 3750 1500
+F 0 "R3" V 3830 1500 50  0000 C CNN
+F 1 "10k" V 3750 1500 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 3750 1500 60  0001 C CNN
+F 3 "" H 3750 1500 60  0001 C CNN
+	1    3750 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED-RESCUE-DAQ_Flow_LEEDR_v4 D4
+U 1 1 4F859912
+P 3950 2650
+F 0 "D4" H 3950 2750 50  0000 C CNN
+F 1 "RTC" H 3950 2550 50  0000 C CNN
+F 2 "matts_components:led-LED3MM_matt" H 3950 2650 60  0001 C CNN
+F 3 "" H 3950 2650 60  0001 C CNN
+	1    3950 2650
+	0    1    1    0   
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R4
+U 1 1 4F85990C
+P 3950 1500
+F 0 "R4" V 4030 1500 50  0000 C CNN
+F 1 "10k" V 3950 1500 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 3950 1500 60  0001 C CNN
+F 3 "" H 3950 1500 60  0001 C CNN
+	1    3950 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L QUARTZCMS4 X1
+U 1 1 4F8598D6
+P 2150 2300
+F 0 "X1" H 2150 2450 60  0000 C CNN
+F 1 "32.27 kHz" H 2150 2150 60  0000 C CNN
+F 2 "matts_components:Xtal_watch_matt" H 2150 2300 60  0001 C CNN
+F 3 "" H 2150 2300 60  0001 C CNN
+	1    2150 2300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L PCF8563 U1
+U 1 1 4F8598AA
+P 3000 2100
+F 0 "U1" H 3000 1701 60  0000 C CNN
+F 1 "PCF8563" H 3000 2500 60  0000 C CNN
+F 2 "REInnovationFootprint:DIP-8_300_ELL" H 3000 2100 60  0001 C CNN
+F 3 "" H 3000 2100 60  0001 C CNN
+	1    3000 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED-RESCUE-DAQ_Flow_LEEDR_v4 D1
+U 1 1 4F8597B7
+P 1000 5700
+F 0 "D1" H 1000 5800 50  0000 C CNN
+F 1 "PWR" H 1000 5600 50  0000 C CNN
+F 2 "matts_components:led-LED3MM_matt" H 1000 5700 60  0001 C CNN
+F 3 "" H 1000 5700 60  0001 C CNN
+	1    1000 5700
+	0    1    1    0   
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R1
+U 1 1 4F8597AB
+P 1000 5150
+F 0 "R1" V 1080 5150 50  0000 C CNN
+F 1 "1k" V 1000 5150 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 1000 5150 60  0001 C CNN
+F 3 "" H 1000 5150 60  0001 C CNN
+	1    1000 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L C-RESCUE-DAQ_Flow_LEEDR_v4 C2
+U 1 1 4F85979E
+P 1550 5100
+F 0 "C2" H 1600 5200 50  0000 L CNN
+F 1 "100nF" H 1600 5000 50  0000 L CNN
+F 2 "matts_components:C1_wide_lg_pad" H 1550 5100 60  0001 C CNN
+F 3 "" H 1550 5100 60  0001 C CNN
+	1    1550 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L CP1-RESCUE-DAQ_Flow_LEEDR_v4 C1
+U 1 1 4F8595DF
+P 1250 5100
+F 0 "C1" H 1300 5200 50  0000 L CNN
+F 1 "100uF" H 1300 5000 50  0000 L CNN
+F 2 "matts_components:C2V8_large_pads" H 1250 5100 60  0001 C CNN
+F 3 "" H 1250 5100 60  0001 C CNN
+	1    1250 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SPST SW1
+U 1 1 4F8595CC
+P 4700 5700
+F 0 "SW1" H 4700 5800 70  0000 C CNN
+F 1 "RESET" H 4700 5600 70  0000 C CNN
+F 2 "matts_components:SW_PUSH_single_pins" H 4700 5700 60  0001 C CNN
+F 3 "" H 4700 5700 60  0001 C CNN
+	1    4700 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L C-RESCUE-DAQ_Flow_LEEDR_v4 C5
+U 1 1 4F8595BF
+P 4700 4950
+F 0 "C5" H 4750 5050 50  0000 L CNN
+F 1 "22pF" H 4750 4850 50  0000 L CNN
+F 2 "matts_components:C1_lg_pad" H 4700 4950 60  0001 C CNN
+F 3 "" H 4700 4950 60  0001 C CNN
+	1    4700 4950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L C-RESCUE-DAQ_Flow_LEEDR_v4 C4
+U 1 1 4F8595BD
+P 4700 4150
+F 0 "C4" H 4750 4250 50  0000 L CNN
+F 1 "22pF" H 4750 4050 50  0000 L CNN
+F 2 "matts_components:C1_lg_pad" H 4700 4150 60  0001 C CNN
+F 3 "" H 4700 4150 60  0001 C CNN
+	1    4700 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L QUARTZCMS4 X2
+U 1 1 4F8595B0
+P 4400 4550
+F 0 "X2" H 4400 4700 60  0000 C CNN
+F 1 "16MHz" H 4400 4400 60  0000 C CNN
+F 2 "matts_components:Xtal_small_matt" H 4400 4550 60  0001 C CNN
+F 3 "" H 4400 4550 60  0001 C CNN
+	1    4400 4550
+	0    1    1    0   
+$EndComp
+$Comp
+L R-RESCUE-DAQ_Flow_LEEDR_v4 R2
+U 1 1 4F8595A5
+P 4100 5400
+F 0 "R2" V 4180 5400 50  0000 C CNN
+F 1 "10k" V 4100 5400 50  0000 C CNN
+F 2 "matts_components:R3-LARGE_PADS_0_8_hole" H 4100 5400 60  0001 C CNN
+F 3 "" H 4100 5400 60  0001 C CNN
+	1    4100 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L ATMEGA328P-P-RESCUE-DAQ_Flow_LEEDR_v4 IC1
+U 1 1 4F85950F
+P 2600 5000
+F 0 "IC1" H 1900 6250 50  0000 L BNN
+F 1 "ATMEGA328P-P" H 2800 3600 50  0000 L BNN
+F 2 "matts_components:DIP-28__300_ELL" H 2000 3650 50  0001 C CNN
+F 3 "" H 2600 5000 60  0001 C CNN
+	1    2600 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L PCF8563 U3
+U 1 1 583D8C31
+P 3000 1000
+F 0 "U3" H 3000 601 60  0000 C CNN
+F 1 "PCF8563" H 3000 1400 60  0000 C CNN
+F 2 "REInnovationFootprint:SM_SOIC_8" H 3000 1000 60  0001 C CNN
+F 3 "" H 3000 1000 60  0001 C CNN
+	1    3000 1000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2350 1250 2350 2450
+Connection ~ 2350 2450
+Wire Wire Line
+	2350 900  2300 900 
+Wire Wire Line
+	2300 900  2300 2000
+Connection ~ 2300 2000
+Wire Wire Line
+	2350 750  2200 750 
+Connection ~ 2200 1600
+Wire Wire Line
+	3650 1250 3650 2400
+Wire Wire Line
+	3650 2400 3700 2400
+Connection ~ 3700 2400
+Wire Wire Line
+	3650 1100 3850 1100
+Wire Wire Line
+	3850 1100 3850 2200
+Connection ~ 3750 2200
+Wire Wire Line
+	3650 1000 4050 1000
+Wire Wire Line
+	4050 1000 4050 2100
+Connection ~ 4050 2100
+Wire Wire Line
+	3650 900  4150 900 
+Wire Wire Line
+	4150 900  4150 2000
+Connection ~ 4150 2000
+Wire Wire Line
+	3950 1900 4350 1900
+Wire Wire Line
+	4350 1900 4350 750 
+Wire Wire Line
+	4350 750  3650 750 
+Connection ~ 3950 1900
+Wire Wire Line
+	10850 3500 8250 3500
+Wire Wire Line
+	8250 3500 8250 6150
+Wire Wire Line
+	8250 6150 6200 6150
+Wire Wire Line
+	6200 6150 6200 7200
+Wire Wire Line
+	6200 7200 700  7200
+Wire Wire Line
+	700  7200 700  4500
+Wire Wire Line
+	700  4500 1700 4500
+$EndSCHEMATC
